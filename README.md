@@ -1,2 +1,2 @@
 # Road-to-Front-End
-notes about author to learn front-end
+前端小白一点一滴的全学习纪实
